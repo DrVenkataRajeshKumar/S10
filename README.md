@@ -1,8 +1,9 @@
 # S10 assignment
 
-Tried with different values of Factor, patience and min_lr
-model with Factor= 9.5, Patience=1 and min_lr= 1e-7 
-got best test accuracy of 92.29 fot training accuracy of 97.05
+Tried with different values of Factor, patience and min_lr of Lr on Plateau  
+model with Factor= 9.5, Patience=1 and min_lr= 1e-7 got best test accuracy   
+test accuracy: 92.29 fot 
+training accuracy: 97.05
 
 
 # Graphs
